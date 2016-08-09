@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         redButton.setAllCaps(false);
 
         redButton.setId(1);
+        redButton.setOnA
         userName.setId((2));
 
         RelativeLayout mainLayout = new RelativeLayout(this);
