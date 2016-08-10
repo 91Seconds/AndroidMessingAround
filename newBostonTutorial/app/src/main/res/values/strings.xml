@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">newBostonTutorial</string>
     <string name="action_settings">Settings</string>
+    <string id="6" name="youSaid">nothing yet</string>
 </resources>
